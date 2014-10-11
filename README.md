@@ -5,6 +5,8 @@ Me learning how to model the [Producer-Consumer](http://en.wikipedia.org/wiki/Pr
 
 Part of the reason is to figure out how to limit the rate of the producer when the consumers cannot keep up.
 
+Also, I wrote a [blog post](http://benjamintanweihao.github.io/blog/2014/10/11/producer-consumer-problem-in-elixir/).
+
 ## Running it
 
 ```
