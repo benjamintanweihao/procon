@@ -12,3 +12,5 @@ Part of the reason is to figure out how to limit the rate of the producer when t
 > ProCon.start(2, 5) # where 2 = # producers, 5 = # consumers
 ```
 
+![](http://i.imgur.com/i2RoYey.gif)
+
